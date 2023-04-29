@@ -3,7 +3,7 @@
     <string name="countries_fragment_label">Countries List</string>
     <string name="country_fragment_label">Country Details</string>
     <string name="country_flag">Country Flag</string>
-    <string name="descriptionText">The purpose of this application is to provide information about different countries by using the REST countries API V3.1 at the request of Scania.</string>
+    <string name="descriptionText">The purpose of this application is to provide information about different countries by using the REST countries API V3.1 .</string>
     <string name="open_location_on_map">Open Location on Map</string>
     <string name="languages">Languages :</string>
     <string name="currency">Currency :</string>
