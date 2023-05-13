@@ -11,7 +11,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.navArgs
 import com.ezatpanah.restcountriesaapi_mvvm.adapter.visible
-import com.ezatpanah.restcountriesaapi_mvvm.api.DataStatus
+import com.ezatpanah.restcountriesaapi_mvvm.utils.DataStatus
 import com.ezatpanah.restcountriesaapi_mvvm.databinding.FragmentCountryDetailBinding
 import com.ezatpanah.restcountriesaapi_mvvm.utils.CheckConnection
 import com.ezatpanah.restcountriesaapi_mvvm.viewmodel.CountryDetailsViewModel

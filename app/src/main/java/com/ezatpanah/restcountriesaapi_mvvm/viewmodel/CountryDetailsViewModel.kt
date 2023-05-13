@@ -4,7 +4,7 @@ import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.ezatpanah.restcountriesaapi_mvvm.api.DataStatus
+import com.ezatpanah.restcountriesaapi_mvvm.utils.DataStatus
 import com.ezatpanah.restcountriesaapi_mvvm.repository.ApiRepository
 import com.ezatpanah.restcountriesaapi_mvvm.response.CountryDetailsResponse
 import dagger.hilt.android.lifecycle.HiltViewModel

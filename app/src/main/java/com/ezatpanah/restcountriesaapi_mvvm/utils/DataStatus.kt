@@ -1,4 +1,4 @@
-package com.ezatpanah.restcountriesaapi_mvvm.api
+package com.ezatpanah.restcountriesaapi_mvvm.utils
 
 data class DataStatus<out T>(val status: Status, val data: T? = null, val message: String? = null) {
     enum class Status {

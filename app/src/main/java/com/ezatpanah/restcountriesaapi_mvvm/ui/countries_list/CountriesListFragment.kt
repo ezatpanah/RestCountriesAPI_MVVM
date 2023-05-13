@@ -14,7 +14,7 @@ import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.ezatpanah.restcountriesaapi_mvvm.adapter.CountriesListAdapter
 import com.ezatpanah.restcountriesaapi_mvvm.adapter.visible
-import com.ezatpanah.restcountriesaapi_mvvm.api.DataStatus
+import com.ezatpanah.restcountriesaapi_mvvm.utils.DataStatus
 import com.ezatpanah.restcountriesaapi_mvvm.databinding.FragmentCountriesListBinding
 import com.ezatpanah.restcountriesaapi_mvvm.utils.CheckConnection
 import com.ezatpanah.restcountriesaapi_mvvm.viewmodel.CountriesListViewModel

@@ -3,7 +3,7 @@ package com.ezatpanah.restcountriesaapi_mvvm.viewmodel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.ezatpanah.restcountriesaapi_mvvm.api.DataStatus
+import com.ezatpanah.restcountriesaapi_mvvm.utils.DataStatus
 import com.ezatpanah.restcountriesaapi_mvvm.repository.ApiRepository
 import com.ezatpanah.restcountriesaapi_mvvm.response.CountriesListResponse
 import dagger.hilt.android.lifecycle.HiltViewModel
