@@ -10,8 +10,9 @@ The API’s Docs: https://restcountries.com/
 Technologies and Libraries Used :
 
 - MVVM
+- Motion Layout
 - Navigation Component
-- Data Binding
+- Data Binding (Two-way DataBinding)
 - Retrofit
 - Dagger Hilt
 - Coil
