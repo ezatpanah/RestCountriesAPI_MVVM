@@ -15,7 +15,6 @@ Technologies and Libraries Used :
 - Retrofit
 - Dagger Hilt
 - Coil
-- Youtube API
 - Lottie
 
 
